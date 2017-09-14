@@ -1,0 +1,177 @@
+{
+  "data": {
+    "message_count": 64,
+    "message_list": [
+      {
+        "content": {
+          "text": "\u6253\u6211\u6253\u6211",
+          "type": "TEXT_MSG"
+        },
+        "ims_client_id": "7f00000108fe0000064f",
+        "isKH": false,
+        "messageID": "37e820908f1551193d0bc1c34e3f07",
+        "messageType": "CHAT_TYPE",
+        "room_id": 47,
+        "sender": {
+          "headImgUrl": "http://cis.test.17baa.com/storage/users/September2017/DJG4SDzdiKCT0eJignlh.jpg",
+          "name": "丁丁",
+          "sessionID": "559b25c838afc9628899769"
+        },
+        "timestamp": 1505283899520
+      },
+      {
+        "content": {
+          "text": "\u6253\u6211\u6253\u6211",
+          "type": "TEXT_MSG"
+        },
+        "ims_client_id": "7f00000108fe0000064f",
+        "isKH": false,
+        "messageID": "78a20b0e418b8e9d98f0176fa7d90e",
+        "messageType": "CHAT_TYPE",
+        "room_id": 47,
+        "sender": {
+          "headImgUrl": "http://cis.test.17baa.com/storage/users/September2017/DJG4SDzdiKCT0eJignlh.jpg",
+          "name": "丁丁",
+          "sessionID": "559b25c838afc9628899769"
+        },
+        "timestamp": 1505283900817
+      },
+      {
+        "content": {
+          "text": "\u6253\u6211\u7684\u5b89\u6170",
+          "type": "TEXT_MSG"
+        },
+        "ims_client_id": "7f00000108fe0000064f",
+        "isKH": false,
+        "messageID": "344e429e7a32415147ac88543ae63f",
+        "messageType": "CHAT_TYPE",
+        "room_id": 47,
+        "sender": {
+          "headImgUrl": "http://cis.test.17baa.com/storage/users/September2017/DJG4SDzdiKCT0eJignlh.jpg",
+          "name": "丁丁",
+          "sessionID": "559b25c838afc9628899769"
+        },
+        "timestamp": 1505283902194
+      },
+      {
+        "content": {
+          "text": "\u6253\u5b8c\u54c7",
+          "type": "TEXT_MSG"
+        },
+        "ims_client_id": "7f00000108fe0000064f",
+        "isKH": false,
+        "messageID": "66c5818ff29dde762916ce03457288",
+        "messageType": "CHAT_TYPE",
+        "room_id": 47,
+        "sender": {
+          "headImgUrl": "http://cis.test.17baa.com/storage/users/September2017/DJG4SDzdiKCT0eJignlh.jpg",
+          "name": "丁丁",
+          "sessionID": "559b25c838afc9628899769"
+        },
+        "timestamp": 1505283903562
+      },
+      {
+        "content": {
+          "text": "\u6253\u5b8c\u554a\u5b89\u6170\u554a\u5b89\u6170\u5b89\u6170\u554ada'w",
+          "type": "TEXT_MSG"
+        },
+        "ims_client_id": "7f00000108fe0000064f",
+        "isKH": false,
+        "messageID": "0f008a2e74a8bc725f786dde92f7f5",
+        "messageType": "CHAT_TYPE",
+        "room_id": 47,
+        "sender": {
+          "headImgUrl": "http://cis.test.17baa.com/storage/users/September2017/DJG4SDzdiKCT0eJignlh.jpg",
+          "name": "丁丁",
+          "sessionID": "559b25c838afc9628899769"
+        },
+        "timestamp": 1505283905865
+      },
+      {
+        "content": {
+          "text": "\u6253\u5b89\u6170\u554a\u6211\u554a\u7684\u54c7\u5b89\u6170\u6211\u5b89\u6170",
+          "type": "TEXT_MSG"
+        },
+        "ims_client_id": "7f00000108fe0000064f",
+        "isKH": false,
+        "messageID": "1f5673421f3458ebdbabab45c13c6f",
+        "messageType": "CHAT_TYPE",
+        "room_id": 47,
+        "sender": {
+          "headImgUrl": "http://cis.test.17baa.com/storage/users/September2017/DJG4SDzdiKCT0eJignlh.jpg",
+          "name": "丁丁",
+          "sessionID": "559b25c838afc9628899769"
+        },
+        "timestamp": 1505283908856
+      },
+      {
+        "content": {
+          "text": "\u6253\u6211\u7684\u9a84\u50b2\u6211\u7684\u91d1\u5730\u6e7ea",
+          "type": "TEXT_MSG"
+        },
+        "ims_client_id": "7f00000108fe0000064f",
+        "isKH": false,
+        "messageID": "49d1558f50342b2c5245393689dbc0",
+        "messageType": "CHAT_TYPE",
+        "room_id": 47,
+        "sender": {
+          "headImgUrl": "http://cis.test.17baa.com/storage/users/September2017/DJG4SDzdiKCT0eJignlh.jpg",
+          "name": "丁丁",
+          "sessionID": "559b25c838afc9628899769"
+        },
+        "timestamp": 1505283911167
+      },
+      {
+        "content": {
+          "text": "a\u6253\u6211\u7684\u5c31\u62c9\u6211\u89c9\u5f97\uff1b\u5965\u8fea\uff1b\u5965\u8fea",
+          "type": "TEXT_MSG"
+        },
+        "ims_client_id": "7f00000108fe0000064f",
+        "isKH": false,
+        "messageID": "e60bff8efede9ad190bed13ac29f2e",
+        "messageType": "CHAT_TYPE",
+        "room_id": 47,
+        "sender": {
+          "headImgUrl": "http://cis.test.17baa.com/storage/users/September2017/DJG4SDzdiKCT0eJignlh.jpg",
+          "name": "丁丁",
+          "sessionID": "559b25c838afc9628899769"
+        },
+        "timestamp": 1505283913396
+      },
+      {
+        "content": {
+          "text": "\u6253\u6211\u5c31\u6253\u4e86\u591a\u4e45\u554a\uff1b\u8fea\u5361\u9f99\u6536\u5230\u4e86\uff1b\u7231\u795e\u7684\u7bad\u554a\uff1b\u4e86\u5927\u5bb6\u73a9",
+          "type": "TEXT_MSG"
+        },
+        "ims_client_id": "7f00000108fe0000064f",
+        "isKH": false,
+        "messageID": "bc96f860f3a204a98e03bab1ef8210",
+        "messageType": "CHAT_TYPE",
+        "room_id": 47,
+        "sender": {
+          "headImgUrl": "http://cis.test.17baa.com/storage/users/September2017/DJG4SDzdiKCT0eJignlh.jpg",
+          "name": "丁丁",
+          "sessionID": "559b25c838afc9628899769"
+        },
+        "timestamp": 1505283916244
+      },
+      {
+        "content": {
+          "text": "\u4f60\u5389\u5bb3",
+          "type": "TEXT_MSG"
+        },
+        "isKH": 1,
+        "messageID": "f2999981199200baed81731aae7419be",
+        "messageType": "CHAT_TYPE",
+        "room_id": 47,
+        "sender": {
+          "headImgUrl": "http://wx.qlogo.cn/mmopen/ibM1YuHQ5R0KUJmibWo1Q7KS3PWVJnBRmUwG6278icyhU3J5Drb7sE7vdugng19Oib2jicyia4pZiaYUHb8mAu9iaR7Qscw2cCFib6icrM/0",
+          "name": "丁丁"
+        },
+        "timestamp": 1505283930034.469
+      }
+    ]
+  },
+  "message": "",
+  "state": 200
+}

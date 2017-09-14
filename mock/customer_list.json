@@ -1,0 +1,69 @@
+{
+  "data": {
+    "customer_count": 37,
+    "customer_list": [
+      {
+        "avatar": "http://wx.qlogo.cn/mmopen/sRtpBiadG46spgWeGLibYPSBNV540ldFKK7oibYJFkibzXR211wwGDQpG2JRiceXZCIsjVhwEMDe0cFZPIvTHb7ZQ5O32U9RhpAjf/0",
+        "created_at": "Tue, 12 Sep 2017 18:55:24 GMT",
+        "customer_id": 49,
+        "nickname": "丁丁1"
+      },
+      {
+        "avatar": "http://wx.qlogo.cn/mmopen/sRtpBiadG46spgWeGLibYPSB9QaNnmrQibefgFRHyrRIravQibfsokAPX97icTO5Jm75tQQzEyN3zNuDEbOTqZeFDmjxv88ndeqCt/0",
+        "created_at": "Tue, 12 Sep 2017 17:13:18 GMT",
+        "customer_id": 48,
+        "nickname": "丁丁2"
+      },
+      {
+        "avatar": "http://wx.qlogo.cn/mmopen/ibM1YuHQ5R0KUJmibWo1Q7KS3PWVJnBRmUwG6278icyhU3J5Drb7sE7vdugng19Oib2jicyia4pZiaYUHb8mAu9iaR7Qscw2cCFib6icrM/0",
+        "created_at": "Tue, 12 Sep 2017 17:11:44 GMT",
+        "customer_id": 47,
+        "nickname": "丁丁3"
+      },
+      {
+        "avatar": "http://wx.qlogo.cn/mmopen/Q3auHgzwzM4YUhWjd9g3A7JLWgos5qic4joeUhMJW8icqb1lOerTk3A92TyaN4LKzg8RPsW4GrjtB5j2mEnWLgAg/0",
+        "created_at": "Tue, 12 Sep 2017 16:47:21 GMT",
+        "customer_id": 46,
+        "nickname": "丁丁4"
+      },
+      {
+        "avatar": "http://wx.qlogo.cn/mmopen/LXqicVqwJiatpiaGyltt1AyicJobnRoWicVHC5SNNufEVYqpo2Cak5W3LEO3Kq0laDicibOoZa6IUOu2TCdbMpUEsNAXQ/0",
+        "created_at": "Thu, 07 Sep 2017 17:03:06 GMT",
+        "customer_id": 45,
+        "nickname": "丁丁5"
+      },
+      {
+        "avatar": "http://wx.qlogo.cn/mmopen/OJQrjLxygc5rkUzpyBREdBbKg87Oo9QMAt91WNvQaslNIgISVzt1DTCODANDbrh3mjmPmr39tX3IOnmbdxDckRFQpuXicjMGI/0",
+        "created_at": "Wed, 06 Sep 2017 19:32:34 GMT",
+        "customer_id": 44,
+        "nickname": "丁丁6"
+      },
+      {
+        "avatar": "http://wx.qlogo.cn/mmopen/sjVQ36lhI2vbACJtY7pQWMGbsrrEErAiaWVCPxCZC4BlUcxAJtkHXbicVNEzjdyt85JHKAntEsKusticAb5GIwnDZxCkp4xo7j3/0",
+        "created_at": "Wed, 06 Sep 2017 16:39:55 GMT",
+        "customer_id": 43,
+        "nickname": "丁丁7"
+      },
+      {
+        "avatar": "http://wx.qlogo.cn/mmopen/OJQrjLxygc6pIMuGsm4EE9hibmib0CZbNk94uM8HgicKGJd8icLYhnibsZHdPr1DzOWAXSlFjiaEferBFe7FTYvcCPzvuW7ZRzT9zT/0",
+        "created_at": "Wed, 06 Sep 2017 14:25:24 GMT",
+        "customer_id": 40,
+        "nickname": "丁丁8"
+      },
+      {
+        "avatar": "http://wx.qlogo.cn/mmopen/sjVQ36lhI2tsJx3LhX8G9K3VcIU1Zx83q8YXMFicSibdGC7xL7rSz7QozwgKg79Xg4n2E7q9NgI0gflNmqk8ypb1vIbe046jhib/0",
+        "created_at": "Wed, 06 Sep 2017 10:47:52 GMT",
+        "customer_id": 39,
+        "nickname": "丁丁9"
+      },
+      {
+        "avatar": "http://wx.qlogo.cn/mmopen/sjVQ36lhI2sJTibdG3aVK5EYV5KE8uV2Hp9g1lw8dS8dv50GksEMUjzzy8jRrIIOlIw5QkbsbCDKc65OPe6xqNq3BMeOwyrH8/0",
+        "created_at": "Tue, 29 Aug 2017 10:22:06 GMT",
+        "customer_id": 38,
+        "nickname": "丁丁10"
+      }
+    ]
+  },
+  "message": "",
+  "state": 200
+}
